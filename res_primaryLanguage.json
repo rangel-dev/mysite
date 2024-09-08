@@ -1,0 +1,115 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I am a frontend developer, continuously learning backend, and a data analyst. With a background in journalism and a published book, I apply my storytelling skills to the tech world, creating effective digital solutions and strategically analyzing data. My journey as a journalist gave me an investigative mindset and clear communication skills, which I now use to develop intuitive interfaces and deeply interpret data. By integrating these abilities, I deliver technological solutions that combine creativity and logic. Always seeking new challenges, I'm ready to collaborate and explore ideas that make a difference.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Books",
+      "startDate": "2024",
+      "description": "In a world where twilight is eternal, Mario, a curious and fearless young man, finds himself on an extraordinary adventure. Alongside Joulie, his grandmother's enigmatic cat, Mario is transported to a magical realm full of mysteries. It all begins when Mario receives a broken painting from his father. What seemed to be just an old relic turns out to be the key to a journey filled with magical beings, challenges, and dangers. His best friend is in trouble, and the only hope to save him lies in unraveling the secrets of an ancient and powerful bracelet. Guided by Joulie, Mario faces fantastic creatures and discovers that friendship and courage are stronger than any magic. Along his quest, he finds unlikely allies and uncovers mysteries that change his life forever. Will Mario be able to save his friend and restore peace to this enchanted kingdom? Embark on this unforgettable adventure and discover the power that lies in true friendship.",
+      "images": [
+        "images/portfolio/books/p1.jpg",
+        "images/portfolio/books/p2.jpg"
+      ],
+      "url": "https://www.amazon.com.br/Pulseira-Od%C3%ADsea-Marcos-Rangel-ebook/dp/B0D9SYLPQL/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1BDTJ0G9B7Q1K&dib=eyJ2IjoiMSJ9.ssw1Gyuvf16LBFqyslmS1QNIXuLUd4dNujscW1KtcQsFYTiTZ2Ht7_K4frPa_APWLQ_nueZwipi4vh88KPPGI2vjJh6XjzUMA4jxumKUa1FzVFV-fogaiTeTIZ33m6q4TIhZEgSySZxRM4EMAGSp97jmfPN8kETlgDVwySI7CyYX2HMoJXaAHTFj5UTgsvZPgzgF_TpLfLEB9urmtQc4g9C0o-Ks3oja6YhfBUQPgoRZaADGK9aD-eis3OwhvcrFN8706gUgwE96aahZIdg1PbqG6KrhI6iMgjqMkzciM2k.2YfKBZerb7TiXAXdbTFSHE5E8C5S7jJqJKkr_zhgE04&dib_tag=se&keywords=pulseira+de+odisea&qid=1725803980&sprefix=pulseira+de+odise%2Caps%2C218&sr=8-1",
+      "technologies": [
+
+      ]
+    },
+    {
+      "title": "Escrita Criativa",
+      "startDate": "2022",
+      "description": "💡 Inspired by the passion for writing, we conceived Creative Writing. 📖 Developing interfaces and features in Figma to bring the literary community to life. ⚙️ Carefully selecting design elements and engaging interactions. 🚀 Creative Writing has the power to become reality, enriching the experience for both writers and readers. 🌟📚 Always keeping an eye on the future, ready to inspire and be inspired through words.",
+      "images": [
+        "images/portfolio/escrita-criativa/p1.png",
+        "images/portfolio/escrita-criativa/p2.jpg",
+        "images/portfolio/escrita-criativa/p3.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-figma-plain",
+          "name": "Figma"
+        }
+      ]
+    },
+    {
+      "title": "Insituto de Arquitetos do Brasil",
+      "startDate": "2023",
+      "description": "We have developed digital alchemy: a form that transcends simplicity, shaping input for the magnificent IAB. 🏰 Sketches and mockups brought each field to life, turning data into an interactive masterpiece. 🛠️ With the precision of a digital sculptor, we meticulously crafted every design and language detail, creating a unique filling experience. 🚀 We elevated the onboarding of new members to a new level, simplifying the process and making registration a pleasant and efficient journey.",
+      "images": [
+        "images/portfolio/instituto-de-arquitetos-do-brasil/p1.png",
+        "images/portfolio/instituto-de-arquitetos-do-brasil/p2.png",
+        "images/portfolio/instituto-de-arquitetos-do-brasil/p3.png",
+        "images/portfolio/instituto-de-arquitetos-do-brasil/p4.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-reactbootstrap-original",
+          "name": "React Bootstrap"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Compass UOL",
+      "title": "Data Analyst [Junior]",
+      "years": "09.2024 - Present",
+      "mainTech": [
+        "Salesforce"
+      ],
+      "technologies": [
+        "Salesforce"
+      ]
+    },
+    {
+      "company": "Compass UOL",
+      "title": "Front-End Developer [Trainee]",
+      "years": "03.2024 - 09.2024",
+      "mainTech": [
+        "React"
+      ],
+      "technologies": [
+        "REST API",
+        "React",
+        "Oracle - OCC",
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "TypeScript",
+        "Shadcn"
+      ]
+    },
+    {
+      "company": "Compass UOL",
+      "title": "Front-End Intern",
+      "years": "06.2023 - 11.2023",
+      "mainTech": [
+        "React"
+      ],
+      "technologies": [
+        "React.ts",
+        "HTML5",
+        "CSS3",
+        "AWS"
+      ]
+    }
+  ]
+}

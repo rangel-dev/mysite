@@ -1,0 +1,115 @@
+{
+    "basic_info": {
+      "description_header": "Oi",
+      "description": "👋 Sou desenvolvedor frontend, em constante aprendizado no backend, e analista de dados. Formado em jornalismo e com um livro publicado, aplico minha habilidade de contar histórias ao mundo da tecnologia, criando soluções digitais eficazes e analisando dados de forma estratégica. Minha trajetória como jornalista me proporcionou um olhar investigativo e uma comunicação clara, que agora uso para desenvolver interfaces intuitivas e interpretar dados de forma profunda. Ao integrar essas habilidades, ofereço soluções tecnológicas que unem criatividade e lógica. Sempre buscando novos desafios, estou pronto para colaborar e explorar ideias que façam a diferença.",
+      "section_name": {
+        "about": "sobre Mim",
+        "projects": "Projetos",
+        "skills": "Habilidades",
+        "experience": "Experiência"
+      }
+    },
+    "projects": [
+      {
+        "title": "Books",
+        "startDate": "2024",
+        "description": "Em um mundo onde o crepúsculo é eterno, Mario, um jovem curioso e destemido, se vê em uma aventura extraordinária. Ao lado de Joulie, o gato enigmático de sua avó, Mario é transportado para um reino mágico e cheio de mistérios.Tudo começa quando Mario ganha do seu pai um quadro partido ao meio. O que parecia ser apenas uma relíquia velha revela ser a chave para uma jornada repleta de seres mágicos, desafios e perigos. Seu melhor amigo está em apuros, e a única esperança de salvá-lo reside em desvendar os segredos de uma pulseira antiga e poderosa.Guiado por Joulie, Mario enfrenta criaturas fantásticas e descobre que a amizade e a coragem são mais fortes que qualquer magia. Em sua busca, ele encontra aliados improváveis e desvenda mistérios que mudam sua vida para sempre.Será que Mario conseguirá salvar seu amigo e restaurar a paz neste reino encantado? Embarque nesta aventura inesquecível e descubra o poder que reside na verdadeira amizade.",
+        "images": [
+          "images/portfolio/books/p1.jpg",
+          "images/portfolio/books/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+
+        ]
+      },
+      {
+        "title": "Escrita Criativa",
+        "startDate": "2022",
+        "description": "💡 Inspirados pela paixão pela escrita, concebemos o Escrita Criativa. 📖 Desenvolvendo interfaces e funcionalidades no Figma para dar vida à comunidade literária. ⚙️ Escolha de elementos de design e interações envolventes. 🚀 O Escrita Criativa tem o poder de se tornar real, enriquecendo a experiência de escritores e leitores. 🌟📚 Sempre de olho no futuro, prontos para inspirar e ser inspirados através das palavras.",
+        "images": [
+          "images/portfolio/escrita-criativa/p1.png",
+          "images/portfolio/escrita-criativa/p2.jpg",
+          "images/portfolio/escrita-criativa/p3.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-figma-plain",
+            "name": "Figma"
+          }
+        ]
+      },
+      {
+        "title": "Insituto de Arquitetos do Brasil",
+        "startDate": "2023",
+        "description": "Desenvolvemos a alquimia digital: um formulário que transcende a simplicidade, moldando a entrada para o magnífico IAB. 🏰 Esboços e maquetes deram vida a cada campo, transformando dados em uma obra-prima interativa. 🛠️ Com a precisão de um escultor digital, escolhemos cada detalhe de design e linguagem, criando uma experiência única de preenchimento. 🚀 Elevamos a entrada de novos sócios a um novo patamar, simplificando o processo e tornando a inscrição uma jornada prazerosa e eficiente.",
+        "images": [
+          "images/portfolio/instituto-de-arquitetos-do-brasil/p1.png",
+          "images/portfolio/instituto-de-arquitetos-do-brasil/p2.png",
+          "images/portfolio/instituto-de-arquitetos-do-brasil/p3.png",
+          "images/portfolio/instituto-de-arquitetos-do-brasil/p4.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-reactbootstrap-original",
+            "name": "React Bootstrap"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Compass UOL",
+        "title": "Analista de Dados [Júnior]",
+        "years": "09.2024 - até o momento",
+        "mainTech": [
+          "Salesforce"
+        ],
+        "technologies": [
+          "Salesforce"
+        ]
+      },
+      {
+        "company": "Compass UOL",
+        "title": "Desenvolvedor Front-End [Trainee]",
+        "years": "03.2024 - 09.2024",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "REST API",
+          "React",
+          "Oracle - OCC",
+          "HTML5",
+          "CSS3",
+          "JavaScript",
+          "TypeScript",
+          "Shadcn"
+        ]
+      },
+      {
+        "company": "Compass UOL",
+        "title": "Estagiário Front-End",
+        "years": "06.2023 - 11.2023",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "Ract.ts",
+          "HTML5",
+          "CSS3",
+          "AWS"
+        ]
+      }
+    ]
+  }

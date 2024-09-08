@@ -1,0 +1,74 @@
+{
+  "basic_info": {
+    "name": "Marcos Rangel",
+    "titles": [
+      "Front-end Developer",
+      "Back-end Developer - under construction",
+      "Junior Data Analyst",
+      "Writter",
+      "Journalist"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/rangel-dev",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/rangel-dev/",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-original",
+        "level": "90"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Sass",
+        "class": "devicon-sass-original",
+        "level": "65"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "Salesforce",
+        "class": "devicon-salesforce-plain",
+        "level": "65"
+      },
+      {
+        "name": "Java",
+        "class": "devicon-java-plain",
+        "level": "65"
+      }
+    ]
+  }
+}
